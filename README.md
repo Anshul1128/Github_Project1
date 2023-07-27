@@ -2,7 +2,6 @@
 
 ## Deployment on Kubernetes Cluster using Jenkins CI/CD Project
 
-![Kubernetes final image (12)](https://user-images.githubusercontent.com/58173938/197373162-1f510766-4437-41ba-b6f8-deead93c7693.png)
 
 ### Whole Project Code Available [Here](https://github.com/Krishnamohan-Yerrabilli/jenkins-pipeline)
 
@@ -70,6 +69,3 @@ will write `Ansible playbooks` with it, we will also write `Dockerfile`.
 - [Complete Declarative CI/CD Pipelines in Jenkins Project - Push Images to DockerHub](https://github.com/Anshul1128/Github_Project1/tree/main/Complete%20Declarative%20CI-CD%20Pipelines%20in%20Jenkins%20Project%20-%20Push%20Images%20to%20DockerHub)
 - [Complete Deployment on Kubernetes cluster using jenkins CI/CD](https://github.com/Anshul1128/Github_Project1/tree/main/Complete%20Deployment%20on%20Kubernetes%20cluster%20using%20jenkins%20CI-CD)
 
-## ❤ Show your support
-
-Give a ⭐️ if this project helped you, Happy learning!
